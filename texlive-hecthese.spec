@@ -1,6 +1,6 @@
 Name:		texlive-hecthese
 Version:	60455
-Release:	1
+Release:	2
 Summary:	A class for dissertations and theses at HEC Montreal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hecthese
